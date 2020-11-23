@@ -20,7 +20,8 @@ While solving Katas and contributing to developers society, you earn Honor and R
 ## Files inside repo
 
 I decided to split files inside repo *depending on advance level of programming puzzles*. 
-`[Leveling System](https://github.com/mateuszjansowa/Codewars/blob/main/assets/levelling.png?raw=true)`
+
+![Leveling System](https://github.com/mateuszjansowa/Codewars/blob/main/assets/levelling.png?raw=true)
 
 
 # By the time you are reading this...
